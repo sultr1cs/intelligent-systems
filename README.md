@@ -1,2 +1,2 @@
-# intelligent-systems
-Implementation of various intelligent systems and algorithms.
+## Intelligent Systems Course
+This repository contains projects and assignments for the Intelligent Systems course.
